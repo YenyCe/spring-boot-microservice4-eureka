@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootMicroservice4EurekaApplication<spring-boot-microservice4-eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.yeny.spring_boot_microservice4_eureka.SpringBootMicroservice4EurekaApplication",
+            "projectName": "spring-boot-microservice4-eureka",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
